@@ -1,0 +1,25 @@
+.men{
+	width: 525px;
+	height: 350px;
+	margin: 0 auto;
+	background-size: contain;
+	background-repeat: no-repeat; 
+}
+.game{
+	width: 40%; text-align: center;
+	padding: 40px 10px;
+	margin: 0 auto;
+}
+button{
+	width: 100px
+}
+input{
+	border: 2px grey solid;
+	font-size: 30px;
+	width: 250px;
+	display: inline-block;
+}
+body{
+	text-align: center;
+	background-color: red;    
+}
